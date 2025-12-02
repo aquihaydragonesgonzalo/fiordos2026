@@ -1,0 +1,7 @@
+{
+  "name": "Visit Flåm 2026",
+  "description": "Tu asistente personal para la escala en Flåm el 14 de Mayo de 2026. Itinerario, mapa y control de gastos.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
